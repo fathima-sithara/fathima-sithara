@@ -1,4 +1,4 @@
-Hey there, I'm fathima sithara
+## Hey there, I'm fathima sithara 
 
 I'm a backend developer who accidentally fell in love with **Golang** — and never looked back.  
 What started as a curiosity quickly turned into an obsession for writing clean, fast, and scalable APIs.
